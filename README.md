@@ -10,7 +10,7 @@
 
 - 💼 I’m currently working at Mutiara i-Tech Sdn. Bhd.
 - 🤔 I’m currently learning __Vue__ and __Go__.
-- 👨🏻‍💻 I am both Web & Mobile Developer.
+- 👨🏻‍💻 I’m both Web & Mobile Developer.
 
 **Languages:**
 <p align="left"> 
@@ -27,6 +27,7 @@
 <p align="left">
   <img height="30" src="https://cdn.svgporn.com/logos/jquery.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/laravel.svg">
+  <img height="30" src="https://github.com/quezera97/quezera97/assets/66286710/185a5058-40b4-40cb-9c70-a5daffbcbdd9">
   <img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vue.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
@@ -37,7 +38,8 @@
 <p align="left">
   <img height="30" src="https://cdn.svgporn.com/logos/visual-studio.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/figma.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/sourcetree.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/git.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/postman.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/postman.svg">  
 </p>
