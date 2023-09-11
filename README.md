@@ -41,5 +41,6 @@
   <img height="30" src="https://cdn.svgporn.com/logos/figma.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/sourcetree.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/git.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/postman.svg">  
+  <img height="30" src="https://cdn.svgporn.com/logos/postman.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/expo.svg">
 </p>
