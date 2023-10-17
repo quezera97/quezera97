@@ -32,7 +32,7 @@
   <img height="30" src="https://cdn.svgporn.com/logos/vue.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/flutter.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/ionic">
+  <img height="30" src="https://cdn.svgporn.com/logos/ionic.svg">
 </p>
 
 **Software & Tools:**
