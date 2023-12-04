@@ -9,7 +9,7 @@
 **About Me:**
 
 - 💼 I’m currently working at Mutiara i-Tech Sdn. Bhd.
-- 🤔 I’m currently learning __Vue__, __Go__ and __Ionic__.
+- 🤔 I’m currently learning __Vue__, __React__ and __Ionic__.
 - 👨🏻‍💻 I’m both Web & Mobile Developer.
 
 **Languages:**
@@ -20,7 +20,6 @@
   <img height="40" src="https://cdn.svgporn.com/logos/php.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/c-sharp.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/dart.svg">
-  <img height="40" src="https://cdn.svgporn.com/logos/go.svg">
 </p>
 
 **Frameworks & Libraries:**
@@ -33,6 +32,7 @@
   <img height="30" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/flutter.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/ionic.svg">
+  <img height="30" src="thttps://cdn.svgporn.com/logos/react.svg">
 </p>
 
 **Software & Tools:**
