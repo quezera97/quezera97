@@ -9,7 +9,7 @@
 **About Me:**
 
 - 💼 I’m currently working at Mutiara i-Tech Sdn. Bhd.
-- 🤔 I’m currently learning __Vue__, __React__ and __Ionic__.
+- 🤔 I’m currently learning __React__ and __Swift__.
 - 👨🏻‍💻 I’m both Web & Mobile Developer.
 
 **Languages:**
@@ -17,9 +17,11 @@
   <img height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
+  <img height="40" src="https://cdn.svgporn.com/logos/typescript.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/php.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/c-sharp.svg">
   <img height="40" src="https://cdn.svgporn.com/logos/dart.svg">
+  <img height="40" src="https://cdn.svgporn.com/logos/swift.svg">
 </p>
 
 **Frameworks & Libraries:**
@@ -31,7 +33,6 @@
   <img height="30" src="https://cdn.svgporn.com/logos/vue.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/flutter.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/ionic.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/react.svg">
 </p>
 
@@ -46,4 +47,5 @@
   <img height="30" src="https://cdn.svgporn.com/logos/expo.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/sqlite.svg">
 </p>
