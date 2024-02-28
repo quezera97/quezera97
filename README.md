@@ -48,5 +48,4 @@
   <img height="30" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/sqlite.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/firebase.svg">
 </p>
