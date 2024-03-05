@@ -1,6 +1,6 @@
 ## Hello, I'm Zahir Zulkifly!
 
-** <a href="https://myonlineresume-quezera.web.app/" target="_blank">My Online Resume</a> **
+<a href="https://myonlineresume-quezera.web.app/" target="_blank">My Online Resume</a>
 
 **About Me:**
 
