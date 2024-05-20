@@ -5,7 +5,7 @@
 **About Me:**
 
 - 💼 I’m currently working at Mutiara i-Tech Sdn. Bhd.
-- 🤔 I’m currently learning __React__ and __Swift__.
+- 🤔 I’m currently learning __React__, __Vue__ & __TypeScript__.
 - 👨🏻‍💻 I’m both Web & Mobile Developer.
 
 **Languages:**
@@ -26,6 +26,7 @@
   <img height="30" src="https://cdn.svgporn.com/logos/laravel.svg">
   <img height="30" src="https://github.com/quezera97/quezera97/assets/66286710/185a5058-40b4-40cb-9c70-a5daffbcbdd9">
   <img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vue.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
   <img height="30" src="https://cdn.svgporn.com/logos/flutter.svg">
