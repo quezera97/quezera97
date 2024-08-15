@@ -4,7 +4,7 @@
 
 **About Me:**
 
-- 💼 I’m currently working at Mutiara i-Tech Sdn. Bhd.
+- 💼 I’m currently working at MyCES Sdn. Bhd.
 - 🤔 I’m currently learning __React__, __Vue__, __Quasar__, __NestJS__ & __TypeScript__.
 - 👨🏻‍💻 I’m both Web & Mobile Developer.
 
